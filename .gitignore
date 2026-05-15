@@ -1,0 +1,25 @@
+# Datasets
+data/
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# ROS / robotics
+*.bag
+*.mcap
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/
